@@ -13,7 +13,8 @@
 <maven.compiler.target>17</maven.compiler.target>
 <sonar.host.url>http://20.51.220.17:9000/</sonar.host.url>
 <sonar.login>admin</sonar.login>
-<sonar.password>sqa_124d772e19aa1334e52c38bc96b556b1d813f44c</sonar.password> 
+<sonar.password>Ashokgani@6629</sonar.password> 
+<sonar.token>sqa_124d772e19aa1334e52c38bc96b556b1d813f44c</sonar.token>
 </properties>
 <dependencies>
 <dependency>
